@@ -1,0 +1,12 @@
+# local runtime data
+chrome-profile/
+downloads/
+*.pid
+
+# archives and captures
+VPN.zip
+*.png
+
+# OS / editor
+Thumbs.db
+.DS_Store
