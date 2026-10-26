@@ -1,0 +1,12 @@
+{
+  "name": "dsh-vpn",
+  "version": "0.1.0",
+  "private": true,
+  "description": "VPN status, reachability and fetch tools for DeepSeek Harness (Cloudflare WARP controlled, hide.me preferred when connected)",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "license": "MIT"
+}
